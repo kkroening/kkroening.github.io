@@ -1,0 +1,3 @@
+[submodule "spiffo"]
+	path = spiffo
+	url = https://github.com/kkroening/spiffo.git
