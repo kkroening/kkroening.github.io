@@ -1,3 +1,6 @@
 [submodule "spiffo"]
 	path = spiffo
 	url = https://github.com/kkroening/spiffo.git
+[submodule "react-layout-example"]
+	path = react-layout-example
+	url = git@github.com:kkroening/react-layout-example.git
