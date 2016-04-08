@@ -4,3 +4,6 @@
 [submodule "react-layout-example"]
 	path = react-layout-example
 	url = git@github.com:kkroening/react-layout-example.git
+[submodule "modules/spira"]
+	path = modules/spira
+	url = https://github.com/kkroening/kkroening.github.io.git
