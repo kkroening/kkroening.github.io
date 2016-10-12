@@ -4,3 +4,6 @@
 [submodule "modules/spira"]
 	path = modules/spira
 	url = https://github.com/kkroening/kkroening.github.io.git
+[submodule "nambiner"]
+	path = nambiner
+	url = git@github.com:agosto-karlkroening/nambiner.git
