@@ -1,6 +1,3 @@
 [submodule "spiffo"]
 	path = spiffo
 	url = https://github.com/kkroening/spiffo.git
-[submodule "nambiner"]
-	path = nambiner
-	url = git@github.com:agosto-karlkroening/nambiner.git
